@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="31.999px" height="32px" viewBox="0 0 31.999 32" style="enable-background:new 0 0 31.999 32;" xml:space="preserve">
+<g id="phone-vertical-layout">
+	<path d="M29.971,4H18.027c-1.12,0-2.028,0.908-2.028,2.028v23.943c0,1.12,0.908,2.028,2.028,2.028h11.943
+		c1.12,0,2.028-0.908,2.028-2.028V6.028C31.999,4.908,31.091,4,29.971,4z M20.499,5h7c0.276,0,0.5,0.224,0.5,0.5S27.775,6,27.499,6
+		h-7c-0.276,0-0.5-0.224-0.5-0.5S20.223,5,20.499,5z M21.499,29h-2c-0.276,0-0.5-0.224-0.5-0.5s0.224-0.5,0.5-0.5h2
+		c0.276,0,0.5,0.224,0.5,0.5S21.775,29,21.499,29z M28.499,29h-2c-0.276,0-0.5-0.224-0.5-0.5s0.224-0.5,0.5-0.5h2
+		c0.276,0,0.5,0.224,0.5,0.5S28.775,29,28.499,29z M28.999,26h-10V8h10V26z"/>
+	<path d="M2,2h24c0-1.104-0.896-2-2-2H2C0.896,0,0,0.896,0,2v21c0,1.104,0.896,2,2,2h12v-2H2V8h12V6H2V2z"/>
+	<circle cx="4" cy="4" r="1"/>
+	<circle cx="7.999" cy="4" r="1"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

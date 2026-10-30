@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px"
+	 height="32px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<g id="recording">
+	<path d="M30,0H2C0.896,0,0,0.896,0,2v28c0,1.104,0.896,2,2,2h28c1.104,0,2-0.896,2-2V2C32,0.896,31.104,0,30,0z M29,29H3V3h26V29z"
+		/>
+	<circle cx="16" cy="10" r="4"/>
+	<path d="M9,23h0.527l1.486,3h1.973l-1.519-3.033C12.348,22.765,13,21.979,13,21.039v-1.066C13,18.878,12.124,18,11.029,18H7v8h2V23
+		z M9,20h2.012l0.018,1H9V20z"/>
+	<polygon points="14,26 19,26 19,24 16,24 16,23 18,23 18,21 16,21 16,20 19,20 19,18 14,18 	"/>
+	<path d="M20,23.023C20,24.686,21.353,26,23.016,26H26v-2h-2.984C22.456,24,22,23.583,22,23.023V20.93c0-0.56,0.456-0.93,1.016-0.93
+		H26v-2h-2.984C21.353,18,20,19.268,20,20.93V23.023z"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

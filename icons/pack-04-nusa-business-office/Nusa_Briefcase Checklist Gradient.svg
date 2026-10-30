@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="business-rule-guide-plan-bag-list"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<path style="fill:#FFFFFF;" d="M51,30H29c-0.553,0-1-0.447-1-1v-6c0-2.757,2.243-5,5-5h14c2.757,0,5,2.243,5,5v6
+	C52,29.553,51.553,30,51,30z M30,28h20v-5c0-1.654-1.346-3-3-3H33c-1.654,0-3,1.346-3,3V28z"/>
+<path style="fill:#FFFFFF;" d="M45,53H35c-0.553,0-1-0.447-1-1v-6c0-0.553,0.447-1,1-1h10c0.553,0,1,0.447,1,1v6
+	C46,52.553,45.553,53,45,53z M36,51h8v-4h-8V51z"/>
+<path style="fill:#FFFFFF;" d="M71,78H49c-0.553,0-1-0.447-1-1V39c0-0.553,0.447-1,1-1h28c0.553,0,1,0.447,1,1v32
+	c0,0.266-0.106,0.52-0.293,0.707l-6,6C71.519,77.895,71.266,78,71,78z M50,76h20.586L76,70.586V40H50V76z"/>
+<path style="fill:#FFFFFF;" d="M71,78c-0.129,0-0.259-0.024-0.383-0.076C70.243,77.77,70,77.404,70,77v-6c0-0.553,0.447-1,1-1h6
+	c0.404,0,0.769,0.243,0.924,0.617c0.155,0.374,0.069,0.804-0.217,1.09l-6,6C71.516,77.898,71.26,78,71,78z M72,72v2.586L74.586,72
+	H72z"/>
+<path style="fill:#FFFFFF;" d="M57,50h-4c-0.553,0-1-0.447-1-1v-4c0-0.553,0.447-1,1-1h4c0.553,0,1,0.447,1,1v4
+	C58,49.553,57.553,50,57,50z M54,48h2v-2h-2V48z"/>
+<rect x="60" y="48" style="fill:#FFFFFF;" width="14" height="2"/>
+<path style="fill:#FFFFFF;" d="M54,58c-0.265,0-0.519-0.104-0.707-0.293l-2-2l1.414-1.414l1.185,1.185L56.2,52.4l1.6,1.199l-3,4
+	c-0.174,0.232-0.439,0.377-0.729,0.397C54.047,57.999,54.023,58,54,58z"/>
+<rect x="60" y="56" style="fill:#FFFFFF;" width="14" height="2"/>
+<rect x="51.298" y="62" transform="matrix(0.7809 -0.6247 0.6247 0.7809 -27.4132 47.8512)" style="fill:#FFFFFF;" width="6.403" height="2.001"/>
+<rect x="53.5" y="59.798" transform="matrix(0.6247 -0.7809 0.7809 0.6247 -28.7407 66.2016)" style="fill:#FFFFFF;" width="2.001" height="6.403"/>
+<rect x="60" y="64" style="fill:#FFFFFF;" width="14" height="2"/>
+<rect x="52" y="70" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="56" y="70" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="60" y="70" style="fill:#FFFFFF;" width="2" height="2"/>
+<path style="fill:#FFFFFF;" d="M49,50h-4c-0.553,0-1-0.447-1-1v-2h-8v2c0,0.553-0.447,1-1,1H23c-2.757,0-5-2.243-5-5V29
+	c0-0.553,0.447-1,1-1h42c0.553,0,1,0.447,1,1v10c0,0.553-0.447,1-1,1H50v9C50,49.553,49.553,50,49,50z M46,48h2v-9
+	c0-0.553,0.447-1,1-1h11v-8H20v15c0,1.654,1.346,3,3,3h11v-2c0-0.553,0.447-1,1-1h10c0.553,0,1,0.447,1,1V48z"/>
+<path style="fill:#FFFFFF;" d="M49,64H25c-2.757,0-5-2.243-5-5V48.445c0-0.357,0.191-0.688,0.501-0.867
+	c0.312-0.178,0.693-0.177,1.002,0.003C21.98,47.859,22.484,48,23,48h11v-2c0-0.553,0.447-1,1-1h10c0.553,0,1,0.447,1,1v2h3
+	c0.553,0,1,0.447,1,1v14C50,63.553,49.553,64,49,64z M22,49.896V59c0,1.654,1.346,3,3,3h23V50h-3c-0.553,0-1-0.447-1-1v-2h-8v2
+	c0,0.553-0.447,1-1,1H23C22.661,50,22.328,49.965,22,49.896z"/>
+</svg>

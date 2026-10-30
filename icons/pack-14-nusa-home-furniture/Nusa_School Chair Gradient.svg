@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="chair-sit-furnitute-student-classroom-study-school"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<path style="fill:#FFFFFF;" d="M66,18h-7c-0.552,0-1,0.448-1,1v27H30c-0.552,0-1,0.448-1,1v7c0,0.552,0.448,1,1,1v22
+	c0,0.553,0.448,1,1,1h6c0.552,0,1-0.447,1-1V55h20v22c0,0.553,0.448,1,1,1h6c0.552,0,1-0.447,1-1V55c0.552,0,1-0.448,1-1v-7V19
+	C67,18.448,66.552,18,66,18z M65,27h-5v-2h5V27z M65,20v3h-5v-3H65z M60,29h5v17h-5V29z M31,48h28h6v5h-6H37h-6V48z M32,76v-3h4v3
+	H32z M36,71h-4V55h4V71z M60,76v-3h4v3H60z M64,71h-4V55h4V71z"/>
+</svg>

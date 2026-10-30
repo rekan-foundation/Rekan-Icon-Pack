@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="pet-teepee-tent-dog-cat-living"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<path style="fill:#FFFFFF;" d="M77.869,76.506L49.33,26.316l8.225-5.484l-1.109-1.664l-6.848,4.565l1.372-5.491l-1.939-0.485
+	L48,21.878l-1.03-4.121l-1.939,0.485l1.372,5.491l-6.848-4.565l-1.109,1.664l8.225,5.484l-28.539,50.19
+	c-0.176,0.31-0.174,0.689,0.005,0.997C18.314,77.811,18.644,78,19,78h58c0.356,0,0.685-0.189,0.864-0.497
+	C78.043,77.195,78.045,76.815,77.869,76.506z M49.07,63.907L57.131,76H40L49.07,63.907z M59.535,76l-9.193-13.79L53.8,57.6l-1.6-1.2
+	L37.5,76H20.719L48,28.023L75.281,76H59.535z"/>
+<rect x="26" y="72" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="30" y="72" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="34" y="72" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="61" y="72" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="65" y="72" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="69" y="72" style="fill:#FFFFFF;" width="2" height="2"/>
+<path style="fill:#FFFFFF;" d="M43,49c0,2.757,2.243,5,5,5c2.757,0,5-2.243,5-5s-2.243-5-5-5C45.243,44,43,46.243,43,49z M51,49
+	c0,1.654-1.346,3-3,3c-1.654,0-3-1.346-3-3s1.346-3,3-3C49.654,46,51,47.346,51,49z"/>
+<rect x="47" y="40" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="47" y="56" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="39" y="47" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="55" y="47" style="fill:#FFFFFF;" width="2" height="2"/>
+</svg>

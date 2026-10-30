@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="variability-graph-variable-statistics-change"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<rect x="72" y="23" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="68" y="23" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="64" y="23" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="60" y="23" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="56" y="23" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="52" y="23" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="48" y="23" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="44" y="23" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="40" y="23" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="36" y="23" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="32" y="23" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="28" y="23" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="24" y="23" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="76" y="23" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="72" y="71" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="68" y="71" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="64" y="71" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="60" y="71" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="56" y="71" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="52" y="71" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="48" y="71" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="76" y="71" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="44" y="71" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="40" y="71" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="36" y="71" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="32" y="71" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="28" y="71" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="24" y="71" style="fill:#FFFFFF;" width="2" height="2"/>
+<path style="fill:#FFFFFF;" d="M75.906,42.423l-1.812-0.846L72.03,46h-8.412l-3.724-7.447c-0.339-0.678-1.45-0.678-1.789,0
+	L54.382,46h-6.994l-4.439-13.316c-0.141-0.42-0.551-0.705-0.983-0.683c-0.443,0.016-0.823,0.32-0.934,0.75L37.612,46H20V25h2v-2h-2
+	v-5h-2v59c0,0.553,0.448,1,1,1h59v-2H20v-3h2v-2h-2V48h17.096l-3.529,13.674l-3.753-5.255c-0.191-0.267-0.499-0.429-0.83-0.419
+	c-0.329,0.005-0.634,0.172-0.816,0.445l-6,9l1.664,1.109l5.196-7.794l4.158,5.821c0.226,0.317,0.614,0.476,0.997,0.402
+	c0.382-0.071,0.688-0.357,0.786-0.733L39.162,48h6.784l3.105,9.316c0.128,0.383,0.475,0.652,0.878,0.681
+	c0.397,0.025,0.784-0.188,0.965-0.55L55.618,48h6.764l4.723,9.447c0.171,0.343,0.521,0.552,0.908,0.553
+	c0.383-0.005,0.73-0.229,0.893-0.577L73.304,48H78v-2h-3.763L75.906,42.423z M39.678,46l2.444-9.471L45.279,46H39.678z
+	 M50.185,54.394L48.054,48h5.328L50.185,54.394z M56.618,46L59,41.236L61.382,46H56.618z M67.969,54.702L64.618,48h6.478
+	L67.969,54.702z"/>
+</svg>

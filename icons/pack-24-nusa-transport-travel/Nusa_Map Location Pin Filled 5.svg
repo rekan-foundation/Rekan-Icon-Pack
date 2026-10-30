@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px"
+	 height="32px" viewBox="0 0 30 32" style="enable-background:new 0 0 30 32;" xml:space="preserve">
+<g id="map-pin-pointer">
+	<path d="M23.99,4.798C23.992,4.866,24,4.932,24,5c0,0.619-0.072,1.219-0.182,1.803L28,7.64v19.672l-7-2.1V25V12.691
+		c-0.747,0.959-1.477,1.711-2,2.205v9.25v1.118l-8,4v-1.118V11.854v-1.118l0.532-0.266c-0.314-0.571-0.597-1.179-0.835-1.819L10,9
+		L0,4v23l10,5l10-5l10,3V6L23.99,4.798z M2,7.236l7,3.5V11v18v0.264l-7-3.5V7.236z"/>
+	<path d="M17,14c0,0,5-4,5-9c0-2.762-2.238-5-5-5s-5,2.238-5,5C12,10,17,14,17,14z M15,5c0-1.104,0.896-2,2-2s2,0.896,2,2
+		s-0.896,2-2,2S15,6.104,15,5z"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

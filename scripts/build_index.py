@@ -9,6 +9,7 @@ from __future__ import annotations
 import json
 import re
 from pathlib import Path
+from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
 ICONS = ROOT / "icons"
@@ -28,7 +29,7 @@ def icon_gallery(pack: Path) -> int:
     rows = []
     for i in range(0, len(icons), COLS):
         cells = "".join(
-            f'<td align="center" width="120"><img src="{p.name}" width="56" height="56" alt="{p.stem}"><br><sub>{p.stem}</sub></td>'
+            f'<td align="center" width="120"><img src="{quote(p.name)}" width="56" height="56" alt="{p.stem}"><br><sub>{p.stem}</sub></td>'
             for p in icons[i : i + COLS]
         )
         rows.append(f"<tr>{cells}</tr>")

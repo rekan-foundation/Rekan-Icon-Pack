@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="bookshelf-book-library-education-knowledge-office-student"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<path style="fill:#FFFFFF;" d="M77,18h-4c-0.553,0-1,0.448-1,1v5h-5h-5h-5h-5h-5h-7h-5h-6h-5v-5c0-0.552-0.447-1-1-1h-4
+	c-0.553,0-1,0.448-1,1v6v10v6v16v13v2v5c0,0.552,0.447,1,1,1h4c0.553,0,1-0.448,1-1v-4h4h5h5h6h7h5h5h5h6v4c0,0.552,0.447,1,1,1h4
+	c0.553,0,1-0.448,1-1v-5V62V35V25v-6C78,18.448,77.553,18,77,18z M65,42h-8h-2v-2h10V42z M58,44h8h2v4h-3h-7V44z M57,50h7v2h-9h-1
+	v-2H57z M56,54h9h1v2H56V54z M67,52h-1v-2h3c0.553,0,1-0.448,1-1v-6c0-0.552-0.447-1-1-1h-2v-3c0-0.552-0.447-1-1-1H54
+	c-0.553,0-1,0.448-1,1v4c0,0.552,0.447,1,1,1h2v4h-3c-0.553,0-1,0.448-1,1v4c0,0.552,0.447,1,1,1h1v2h-8V41c0-0.552-0.447-1-1-1h-6
+	h-8h-6h-5v-4h4h5h6h5h7h5h5h5h5h9v20h-8v-3C68,52.448,67.553,52,67,52z M32,56V42h6v14H32z M26,56V42h4v14H26z M40,42h4v14h-4V42z
+	 M20,26h3v8h-3V26z M20,42h4v14h-4V42z M68,26h8v8h-8V26z M74,20h2v4h-2V20z M66,34h-3v-8h3V34z M61,34h-3v-8h3V34z M56,34h-3v-8h3
+	V34z M51,34h-3v-8h3V34z M46,34h-5v-8h5V34z M39,34h-3v-8h3V34z M34,34h-4v-8h4V34z M28,34h-3v-8h3V34z M22,20v4h-2v-4H22z M20,58h5
+	h6h8h6h10h12h9v3h-4h-6h-5h-5h-5h-7h-6h-5h-5c-0.553,0-1,0.448-1,1v9h-7v-1V58z M73,71v-8h3v8H73z M22,76h-2v-3h2V76z M29,63h3v8h-3
+	V63z M34,63h3v8h-3V63z M39,63h4v8h-4V63z M45,63h5v8h-5V63z M52,63h3v8h-3V63z M57,63h3v8h-3V63z M62,63h3v8h-3V63z M67,63h4v8h-4
+	V63z M74,76v-3h2v3H74z"/>
+</svg>

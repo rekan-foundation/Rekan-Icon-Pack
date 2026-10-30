@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g id="rose_of_wind">
+	<g>
+		<g>
+			<polygon fill="#ED5564" points="405.248,106.752 256,188.605 106.76,106.752 188.606,256 106.76,405.232 256,323.395 
+				405.248,405.232 323.395,256 			"/>
+		</g>
+		<polygon fill="#DA4453" points="256,256 323.395,256 405.248,106.752 		"/>
+		<polygon fill="#DA4453" points="256,256 256,323.395 405.248,405.232 		"/>
+		<polygon fill="#DA4453" points="256,256 188.606,256 106.76,405.232 		"/>
+		<polygon fill="#DA4453" points="256,256 256,188.605 106.76,106.752 		"/>
+	</g>
+	<g>
+		<polygon fill="#5D9CEC" points="313.775,313.76 511.836,256 313.775,198.225 256,0.164 198.232,198.225 0.164,256 198.232,313.76 
+			256,511.836 		"/>
+	</g>
+	<polygon fill="#4A89DC" points="256,0.164 256,256 313.775,198.225 	"/>
+	<polygon fill="#4A89DC" points="511.836,256 256,256 313.775,313.76 	"/>
+	<polygon fill="#4A89DC" points="256,511.836 256,256 198.232,313.76 	"/>
+	<polygon fill="#4A89DC" points="0.164,256 256,256 198.232,198.225 	"/>
+</g>
+</svg>

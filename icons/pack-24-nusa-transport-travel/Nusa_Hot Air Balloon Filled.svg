@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22px"
+	 height="32px" viewBox="0 0 22 32" style="enable-background:new 0 0 22 32;" xml:space="preserve">
+<g id="air-balloon">
+	<path d="M9,30c0,1.104,0.896,2,2,2s2-0.896,2-2v-1H9V30z"/>
+	<path d="M11,0C4.925,0,0,5.373,0,12c0,8,9,16,9,16h4c0,0,9-8,9-16C22,5.373,17.075,0,11,0z M9.014,27C7.812,24.416,7,19.57,7,14
+		C7,8.607,7.761,3.891,8.9,1.249C9.578,1.089,10.279,1,11,1s1.422,0.089,2.1,0.248C14.238,3.891,15,8.607,15,14
+		c0,5.568-0.811,10.415-2.013,13H9.014z"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

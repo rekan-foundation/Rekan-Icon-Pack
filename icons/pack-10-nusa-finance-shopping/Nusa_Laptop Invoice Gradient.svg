@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="invoice-online-payment-paper-document-laptop"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<rect x="29" y="24" style="fill:#FFFFFF;" width="10" height="2"/>
+<rect x="29" y="28" style="fill:#FFFFFF;" width="13" height="2"/>
+<rect x="29" y="32" style="fill:#FFFFFF;" width="16" height="2"/>
+<path style="fill:#FFFFFF;" d="M30,56h26v3c0,0.552,0.448,1,1,1h9c0.552,0,1-0.448,1-1v-4V37c0-0.552-0.448-1-1-1h-9H30
+	c-0.552,0-1,0.448-1,1v18C29,55.552,29.448,56,30,56z M31,54V43h25v11H31z M58,43h7v11h-7V43z M58,58v-2h7v2H58z M65,38v3h-7v-3H65z
+	 M56,38v3H31v-3H56z"/>
+<path style="fill:#FFFFFF;" d="M77,68h-2V33c0-0.552-0.448-1-1-1h-3V19c0-0.552-0.448-1-1-1H26c-0.552,0-1,0.448-1,1v13h-3
+	c-0.552,0-1,0.448-1,1v35h-2c-0.552,0-1,0.447-1,1v8c0,0.553,0.448,1,1,1h58c0.552,0,1-0.447,1-1v-8C78,68.447,77.552,68,77,68z
+	 M27,20h42v13v31H27V33V20z M23,34h2v31c0,0.553,0.448,1,1,1h44c0.552,0,1-0.447,1-1V34h2v34H56c-0.265,0-0.52,0.105-0.707,0.293
+	L53.586,70H43.414l-1.707-1.707C41.52,68.105,41.265,68,41,68H23V34z M76,76H20v-6h2h18.586l1.707,1.707
+	C42.48,71.895,42.734,72,43,72h11c0.265,0,0.52-0.105,0.707-0.293L56.414,70H74h2V76z"/>
+<rect x="70" y="72" style="fill:#FFFFFF;" width="4" height="2"/>
+<rect x="64" y="72" style="fill:#FFFFFF;" width="3" height="2"/>
+<path style="fill:#FFFFFF;" d="M52,30h14c0.552,0,1-0.448,1-1v-4c0-0.552-0.448-1-1-1H52c-0.552,0-1,0.448-1,1v4
+	C51,29.552,51.448,30,52,30z M53,26h12v2H53V26z"/>
+</svg>

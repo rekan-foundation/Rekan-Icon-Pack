@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="decision-making-business-management-arrow-forcast"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<path style="fill:#FFFFFF;" d="M77.555,46.168l-6-4C71.391,42.059,71.197,42,71,42H52v-6h19c0.197,0,0.391-0.059,0.555-0.168l6-4
+	C77.833,31.646,78,31.334,78,31s-0.167-0.646-0.445-0.832l-6-4C71.391,26.059,71.197,26,71,26H52v-7c0-0.552-0.448-1-1-1h-6H25
+	c-0.197,0-0.391,0.059-0.555,0.168l-6,4C18.167,22.354,18,22.666,18,23s0.167,0.646,0.445,0.832l6,4C24.609,27.941,24.803,28,25,28
+	h19v6H25c-0.197,0-0.391,0.059-0.555,0.168l-6,4C18.167,38.354,18,38.666,18,39s0.167,0.646,0.445,0.832l6,4
+	C24.609,43.941,24.803,44,25,44h19v6H25c-0.197,0-0.391,0.059-0.555,0.168l-6,4C18.167,54.354,18,54.666,18,55
+	s0.167,0.646,0.445,0.832l6,4C24.609,59.941,24.803,60,25,60h19v8h-9c-0.335,0-0.647,0.167-0.832,0.445l-2,3
+	C32.059,71.609,32,71.803,32,72v5c0,0.552,0.448,1,1,1h30c0.552,0,1-0.448,1-1v-5c0-0.197-0.059-0.391-0.168-0.555l-2-3
+	C61.646,68.167,61.334,68,61,68h-9V52h19c0.197,0,0.391-0.059,0.555-0.168l6-4C77.833,47.646,78,47.334,78,47
+	S77.833,46.354,77.555,46.168z M70.697,28l4.5,3l-4.5,3H52v-6H70.697z M25.303,26l-4.5-3l4.5-3H44v6H25.303z M25.303,42l-4.5-3
+	l4.5-3H44v6H25.303z M25.303,58l-4.5-3l4.5-3H44v6H25.303z M62,72.303V76H34v-3.697L35.535,70H45h6h9.465L62,72.303z M46,68v-9v-8
+	v-8v-8v-8v-7h4v7v8v8v8v17H46z M70.697,50H52v-6h18.697l4.5,3L70.697,50z"/>
+<rect x="26" y="22" style="fill:#FFFFFF;" width="14" height="2"/>
+<rect x="26" y="38" style="fill:#FFFFFF;" width="14" height="2"/>
+<rect x="56" y="30" style="fill:#FFFFFF;" width="14" height="2"/>
+<rect x="56" y="46" style="fill:#FFFFFF;" width="14" height="2"/>
+<rect x="26" y="54" style="fill:#FFFFFF;" width="14" height="2"/>
+</svg>

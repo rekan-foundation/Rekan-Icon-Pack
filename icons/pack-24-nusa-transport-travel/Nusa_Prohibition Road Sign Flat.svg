@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g id="road_sign">
+	<rect x="234.661" y="277.327" fill="#CCD1D9" width="42.679" height="234.668"/>
+	<rect x="235.208" y="330.654" fill="#ED5564" width="41.57" height="42.671"/>
+	<rect x="235.208" y="415.98" fill="#ED5564" width="41.57" height="42.672"/>
+	<polygon fill="#E6E9ED" points="317.838,0.005 194.146,0.005 106.663,87.472 106.663,211.188 194.146,298.671 317.838,298.671 
+		405.337,211.188 405.337,87.472 	"/>
+	<polygon fill="#ED5564" points="304.589,32.004 207.396,32.004 138.663,100.737 138.663,197.938 207.396,266.656 304.589,266.656 
+		373.338,197.938 373.338,100.737 	"/>
+	<polygon fill="#E6E9ED" points="165.49,224.75 180.568,239.844 346.494,73.909 331.432,58.816 	"/>
+</g>
+</svg>

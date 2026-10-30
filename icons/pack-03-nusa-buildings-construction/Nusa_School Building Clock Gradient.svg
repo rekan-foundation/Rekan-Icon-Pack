@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="school-building-education-entrance-structure-institution-student"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<path style="fill:#FFFFFF;" d="M77,38h-8V19c0-0.552-0.448-1-1-1H29c-0.552,0-1,0.448-1,1v19h-9c-0.552,0-1,0.448-1,1v38
+	c0,0.552,0.448,1,1,1h14h30h14c0.552,0,1-0.448,1-1V39C78,38.448,77.552,38,77,38z M30,20h37v18H30V20z M34,76V56h28v20H34z M76,76
+	H64V55c0-0.552-0.448-1-1-1H33c-0.552,0-1,0.448-1,1v21H20V40h9h39h8V76z"/>
+<path style="fill:#FFFFFF;" d="M48,22c-3.86,0-7,3.14-7,7s3.14,7,7,7s7-3.14,7-7S51.86,22,48,22z M48,34c-2.757,0-5-2.243-5-5
+	s2.243-5,5-5s5,2.243,5,5S50.757,34,48,34z"/>
+<path style="fill:#FFFFFF;" d="M63,42H33c-0.552,0-1,0.448-1,1v8c0,0.552,0.448,1,1,1h30c0.552,0,1-0.448,1-1v-8
+	C64,42.448,63.552,42,63,42z M62,46H49v-2h13V46z M47,44v2H34v-2H47z M34,48h13v2H34V48z M49,50v-2h13v2H49z"/>
+<path style="fill:#FFFFFF;" d="M29,57h-6c-0.552,0-1,0.448-1,1v14c0,0.552,0.448,1,1,1h6c0.552,0,1-0.448,1-1V58
+	C30,57.448,29.552,57,29,57z M28,59v5h-4v-5H28z M24,71v-5h4v5H24z"/>
+<path style="fill:#FFFFFF;" d="M73,57h-6c-0.552,0-1,0.448-1,1v14c0,0.552,0.448,1,1,1h6c0.552,0,1-0.448,1-1V58
+	C74,57.448,73.552,57,73,57z M72,59v5h-4v-5H72z M68,71v-5h4v5H68z"/>
+<path style="fill:#FFFFFF;" d="M29,42h-6c-0.552,0-1,0.448-1,1v8c0,0.552,0.448,1,1,1h6c0.552,0,1-0.448,1-1v-8
+	C30,42.448,29.552,42,29,42z M28,44v2h-4v-2H28z M24,50v-2h4v2H24z"/>
+<path style="fill:#FFFFFF;" d="M66,43v8c0,0.552,0.448,1,1,1h6c0.552,0,1-0.448,1-1v-8c0-0.552-0.448-1-1-1h-6
+	C66.448,42,66,42.448,66,43z M68,50v-2h4v2H68z M72,44v2h-4v-2H72z"/>
+<path style="fill:#FFFFFF;" d="M47,28.613l-1.684-0.562l-0.633,1.897l3,1C47.787,30.983,47.894,31,48,31
+	c0.207,0,0.412-0.065,0.584-0.189C48.846,30.623,49,30.321,49,30v-4h-2V28.613z"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23px"
+	 height="31px" viewBox="0 0 23 31" style="enable-background:new 0 0 23 31;" xml:space="preserve">
+<g id="piano-key">
+	<path d="M22.013,0H19v2h2v26.635C21,28.83,20.854,29,20.658,29h-4.291C16.172,29,16,28.83,16,28.635V20h-2v8.635
+		C14,28.83,13.854,29,13.658,29H9.367C9.172,29,9,28.83,9,28.635V20H7v8.635C7,28.83,6.854,29,6.658,29H2.367
+		C2.172,29,2,28.83,2,28.635V2h2V0H1.013C0.46,0,0,0.469,0,1.021v27.613C0,29.934,1.069,31,2.367,31h4.291
+		c0.505,0,0.971-0.163,1.354-0.436C8.396,30.837,8.862,31,9.367,31h4.291c0.505,0,0.971-0.163,1.354-0.436
+		C15.396,30.837,15.862,31,16.367,31h4.291C21.956,31,23,29.934,23,28.635V1.021C23,0.469,22.565,0,22.013,0z"/>
+	<path d="M9,18c0.552,0,1-0.447,1-1V0H5v17c0,0.553,0.448,1,1,1H9z"/>
+	<path d="M17,18c0.553,0,1-0.447,1-1V0h-5v17c0,0.553,0.447,1,1,1H17z"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

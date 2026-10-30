@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px"
+	 height="31px" viewBox="0 0 32 31" style="enable-background:new 0 0 32 31;" xml:space="preserve">
+<g id="game-center">
+	<path d="M22,7H2C0.896,7,0,7.896,0,9v12c0,1.104,0.896,2,2,2h7v3c-1.104,0-2,0.896-2,2h10c0-1.104-0.896-2-2-2v-3h7
+		c1.104,0,2-0.896,2-2V9C24,7.896,23.104,7,22,7z M22,21h-3H2V9h17h3V21z"/>
+	<path d="M30.227,0h-9.453C19.794,0,19,0.794,19,1.773V6h3c1.657,0,3,1.343,3,3v6h6v1h-6v6h7V1.773C32,0.794,31.206,0,30.227,0z
+		 M26.958,20.017c-0.558,0-1.009-0.451-1.009-1.008c0-0.558,0.451-1.009,1.009-1.009c0.557,0,1.008,0.451,1.008,1.009
+		C27.966,19.565,27.515,20.017,26.958,20.017z"/>
+	<rect x="2" y="29" width="20" height="2"/>
+	<path d="M28,28c-1.657,0-3,1.343-3,3h6C31,29.343,29.657,28,28,28z"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

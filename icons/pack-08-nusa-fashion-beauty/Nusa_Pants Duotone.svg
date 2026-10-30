@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g id="pants_1_">
+	<polygon fill="#46CEAD" points="415.994,511.99 287.998,511.99 256,330.653 224,511.99 96.005,511.99 117.341,0.01 394.65,0.01 	
+		"/>
+	<g>
+		<polygon fill="#35BB9B" points="229.649,479.992 97.341,479.992 96.005,511.99 224,511.99 		"/>
+		<polygon fill="#35BB9B" points="287.998,511.99 415.994,511.99 414.65,479.992 282.344,479.992 		"/>
+	</g>
+	<path fill="#35BB9B" d="M284.312,53.343c11.936,9.102,56.465,40.569,114.697,50.975l-0.922-21.889
+		c-30.154-6.133-56.373-18.46-74.873-29.085h73.67l-0.891-21.335H341.34V0.01h-21.342v31.999H192.002V0.01h-21.335v31.999h-54.662
+		l-0.891,21.335h73.731c-18.46,10.625-44.686,22.945-74.942,29.085l-0.914,21.889c58.224-10.406,102.77-41.873,114.699-50.975
+		H284.312z"/>
+	<path fill="#E5E8EC" d="M245.336,0.01v85.333c0,5.89,4.773,10.664,10.664,10.664c5.891,0,10.665-4.773,10.665-10.664V0.01H245.336z
+		"/>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+</g>
+<path d="M3,54h17v7c0,0.552,0.448,1,1,1h27c0.552,0,1-0.448,1-1v-7h12c0.552,0,1-0.448,1-1V41V27c0-0.552-0.448-1-1-1H16v-8.224
+	l38.249-9.807c0.292-0.075,0.536-0.279,0.661-0.554s0.12-0.592-0.015-0.862l-2-4c-0.211-0.422-0.69-0.638-1.149-0.52l-38,10
+	c-0.53,0.14-0.849,0.679-0.716,1.21L13.719,16H3c-0.552,0-1,0.448-1,1v24v12C2,53.552,2.448,54,3,54z M4,52V42h16v10H4z M47,60H22
+	v-7V42h25v11V60z M60,52H49V42h11V52z M51.469,4.174l1.083,2.165l-36.825,9.442l-0.517-2.065L51.469,4.174z M4,18h10v9
+	c0,0.552,0.448,1,1,1h45v12H48H21H4V18z"/>
+<rect x="25" y="46" width="19" height="2"/>
+<rect x="25" y="50" width="19" height="2"/>
+<rect x="25" y="54" width="19" height="2"/>
+</svg>

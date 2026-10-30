@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<path d="M12,58h20h20c0.552,0,1-0.448,1-1V30c0-0.552-0.448-1-1-1H32H12c-0.552,0-1,0.448-1,1v27C11,57.552,11.448,58,12,58z M51,56
+	H33V31h18V56z M13,31h18v25H13V31z"/>
+<rect x="16" y="52" width="2" height="2"/>
+<rect x="21" y="52" width="2" height="2"/>
+<rect x="26" y="52" width="2" height="2"/>
+<rect x="16" y="47" width="2" height="2"/>
+<rect x="21" y="47" width="2" height="2"/>
+<rect x="26" y="47" width="2" height="2"/>
+<rect x="36" y="47" width="2" height="2"/>
+<rect x="41" y="47" width="2" height="2"/>
+<rect x="46" y="47" width="2" height="2"/>
+<rect x="36" y="52" width="2" height="2"/>
+<rect x="41" y="52" width="2" height="2"/>
+<rect x="46" y="52" width="2" height="2"/>
+<path d="M61,2H35c-0.552,0-1,0.448-1,1v22h-4V3c0-0.552-0.448-1-1-1H3C2.448,2,2,2.448,2,3v36c0,0.552,0.448,1,1,1h4v21
+	c0,0.552,0.448,1,1,1h48c0.552,0,1-0.448,1-1V40h4c0.552,0,1-0.448,1-1V3C62,2.448,61.552,2,61,2z M36,4h2v21h-2V4z M7,26v12H4V4h24
+	v21H8C7.448,25,7,25.448,7,26z M55,60H9V27h46V60z M60,38h-3V26c0-0.552-0.448-1-1-1H40V4h20V38z"/>
+<path d="M25,10H7c-0.552,0-1,0.448-1,1v9c0,0.552,0.448,1,1,1h18c0.552,0,1-0.448,1-1v-9C26,10.448,25.552,10,25,10z M24,19H8v-7h16
+	V19z"/>
+<path d="M43,20h14c0.552,0,1-0.448,1-1v-7c0-0.552-0.448-1-1-1H43c-0.552,0-1,0.448-1,1v7C42,19.552,42.448,20,43,20z M44,13h12v5
+	H44V13z"/>
+<rect x="26" y="42" width="2" height="2"/>
+<rect x="16" y="37" width="2" height="2"/>
+<rect x="21" y="37" width="2" height="2"/>
+<rect x="26" y="37" width="2" height="2"/>
+<rect x="16" y="42" width="2" height="2"/>
+<rect x="21" y="42" width="2" height="2"/>
+<rect x="16" y="33" width="12" height="2"/>
+<rect x="36" y="37" width="2" height="2"/>
+<rect x="41" y="37" width="2" height="2"/>
+<rect x="46" y="37" width="2" height="2"/>
+<rect x="36" y="42" width="2" height="2"/>
+<rect x="41" y="42" width="2" height="2"/>
+<rect x="46" y="42" width="2" height="2"/>
+<rect x="36" y="33" width="12" height="2"/>
+</svg>

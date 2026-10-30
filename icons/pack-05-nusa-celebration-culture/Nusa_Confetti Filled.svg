@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px"
+	 height="32px" viewBox="0 0 30 32" style="enable-background:new 0 0 30 32;" xml:space="preserve">
+<g id="confetti">
+	<path d="M28,21l-7.429-4L28,13V7L15,0v6l7.429,4L15,14v6l13,7V21z M16,5.402V1.674l10.945,5.895l-3.462,1.864L16,5.402z M27,25.326
+		l-11-5.924v-3.729l11,5.924V25.326z"/>
+	<path d="M1,18l7.429,4L1,26v6l13-7v-6l-7.429-4L14,11V5L1,12V18z M2,30.326v-3.729l7.483-4.03l3.462,1.864L2,30.326z M2,12.598
+		l11-5.924v3.729L2,16.326V12.598z"/>
+	<rect x="16" y="26" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 9.9289 58.1127)" width="2" height="2"/>
+	<rect x="20.586" y="28.586" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 15.9291 65.7699)" width="2" height="2"/>
+	<rect x="6.414" y="4.414" transform="matrix(0.7071 0.7071 -0.7071 0.7071 5.9998 -3.6568)" width="2" height="2"/>
+	<rect x="0.414" y="6.586" transform="matrix(0.7071 0.7071 -0.7071 0.7071 5.7782 1.222)" width="2" height="2"/>
+	<rect x="27.586" y="16.586" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 36.3641 50.2344)" width="2" height="2"/>
+	<rect x="27.414" y="1.586" transform="matrix(0.7071 0.7071 -0.7071 0.7071 10.1508 -19.3344)" width="2" height="2"/>
+	<circle cx="2.5" cy="2.5" r="1.5"/>
+	<circle cx="10.5" cy="30.5" r="1.5"/>
+	<circle cx="28.5" cy="28.5" r="1.5"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

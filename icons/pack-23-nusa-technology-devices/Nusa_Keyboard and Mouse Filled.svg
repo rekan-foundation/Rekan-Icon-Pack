@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px"
+	 height="22px" viewBox="0 0 32 22" style="enable-background:new 0 0 32 22;" xml:space="preserve">
+<g id="pc-game">
+	<path d="M18,10h-7V1c0-0.553-0.447-1-1-1S9,0.447,9,1v9H2c-1.104,0-2,0.896-2,2v8c0,1.104,0.896,2,2,2h16c1.104,0,2-0.896,2-2v-8
+		C20,10.896,19.104,10,18,10z M18,20H2v-8h16V20z"/>
+	<rect x="3" y="13" width="2" height="2"/>
+	<rect x="6" y="13" width="2" height="2"/>
+	<rect x="9" y="13" width="2" height="2"/>
+	<rect x="12" y="13" width="2" height="2"/>
+	<rect x="15" y="13" width="2" height="2"/>
+	<rect x="9" y="17" width="2" height="2"/>
+	<rect x="3" y="17" width="5" height="2"/>
+	<rect x="12" y="17" width="2" height="2"/>
+	<rect x="15" y="17" width="2" height="2"/>
+	<rect x="27" width="1" height="10"/>
+	<path d="M23,18.107C23,20.257,24.743,22,26.893,22h1.215C30.257,22,32,20.257,32,18.107V15h-9V18.107z"/>
+	<path d="M28.107,10H28v1v2h-1v-2v-1h-0.107C24.743,10,23,11.743,23,13.893V14h9v-0.107C32,11.743,30.257,10,28.107,10z"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

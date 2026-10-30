@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="makeup-brushes-set-beauty-cosmetics"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<path style="fill:#FFFFFF;" d="M29,18h-6c-2.757,0-5,2.243-5,5v4h0.011c0,0.021-0.01,0.039-0.009,0.06l3,50
+	C21.033,77.588,21.471,78,22,78h8c0.529,0,0.967-0.412,0.998-0.94l3-50c0.001-0.021-0.009-0.04-0.009-0.06H34v-4
+	C34,20.243,31.757,18,29,18z M23,20h6c1.654,0,3,1.346,3,3v3h-3v-3h-2v3h-2v-3h-2v3h-3v-3C20,21.346,21.346,20,23,20z M31.758,31
+	H20.241l-0.18-3h11.877L31.758,31z M29.059,76h-6.117l-2.58-43h11.277L29.059,76z"/>
+<path style="fill:#FFFFFF;" d="M77.707,29.293l-4-4c-0.286-0.286-0.716-0.371-1.09-0.217C72.243,25.231,72,25.596,72,26v8v43
+	c0,0.553,0.447,1,1,1h4c0.553,0,1-0.447,1-1V34v-4C78,29.735,77.894,29.48,77.707,29.293z M76,30.414V33h-2v-4.586L76,30.414z
+	 M76,76h-2V35h2V76z"/>
+<path style="fill:#FFFFFF;" d="M46,29c-4.963,0-9,4.038-9,9c0,3.046,1.526,5.868,4,7.53V77c0,0.553,0.447,1,1,1h8
+	c0.553,0,1-0.447,1-1V45.53c2.474-1.662,4-4.484,4-7.53C55,33.038,50.963,29,46,29z M49,76h-6V46h6V76z M49.723,44h-1.245
+	l1.451-3.628l-1.857-0.743L46.323,44h-0.645l-1.749-4.372l-1.857,0.743L43.523,44h-1.245C40.249,42.726,39,40.451,39,38
+	c0-3.86,3.141-7,7-7c3.859,0,7,3.14,7,7C53,40.451,51.751,42.726,49.723,44z"/>
+<path style="fill:#FFFFFF;" d="M63,20h2v-2h-2h-2h-2v2h2v2h-5v2h5v2h-5v2h5v2h-2v2h2v3h-1c-0.553,0-1,0.448-1,1v41
+	c0,0.553,0.447,1,1,1h4c0.553,0,1-0.447,1-1V36c0-0.552-0.447-1-1-1h-1v-3h2v-2h-2v-2h5v-2h-5v-2h5v-2h-5V20z M63,76h-2V37h2V76z"/>
+</svg>

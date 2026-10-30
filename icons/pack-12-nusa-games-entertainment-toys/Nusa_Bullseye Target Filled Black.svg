@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px"
+	 height="32px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<g id="bulls-eye">
+	<path d="M16,0C7.163,0,0,7.163,0,16s7.163,16,16,16s16-7.163,16-16S24.837,0,16,0z M20,3.633C23.959,4.914,27.086,8.04,28.366,12
+		h-2.13C25.119,9.15,22.848,6.878,20,5.759V3.633z M12,3.633v2.126C9.152,6.878,6.881,9.15,5.764,12h-2.13
+		C4.914,8.04,8.041,4.914,12,3.633z M12,28.367C8.041,27.086,4.914,23.96,3.634,20h2.13c1.117,2.85,3.389,5.122,6.236,6.241V28.367z
+		 M8,16c0-4.418,3.582-8,8-8s8,3.582,8,8s-3.582,8-8,8S8,20.418,8,16z M20,28.367v-2.126c2.848-1.119,5.119-3.392,6.236-6.241h2.13
+		C27.086,23.96,23.959,27.086,20,28.367z"/>
+	<circle cx="15.999" cy="16" r="5"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

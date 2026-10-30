@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px"
+	 height="32px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<g id="tablet-horizontal-layout">
+	<path d="M29.972,11H6.028C4.908,11,4,11.908,4,13.028v16.943C4,31.092,4.908,32,6.028,32h23.943C31.092,32,32,31.092,32,29.972
+		V13.028C32,11.908,31.092,11,29.972,11z M7.46,22.518c-0.802,0-1.45-0.65-1.45-1.453c0-0.797,0.648-1.447,1.45-1.447
+		s1.45,0.65,1.45,1.447C8.91,21.867,8.262,22.518,7.46,22.518z M28,29H10V14h18V29z M30.508,21.521
+		c-0.271,0-0.492-0.221-0.492-0.492s0.221-0.492,0.492-0.492S31,20.758,31,21.029S30.779,21.521,30.508,21.521z"/>
+	<circle cx="4" cy="4" r="1"/>
+	<circle cx="7.999" cy="4" r="1"/>
+	<path d="M23.999,9h2V2H26c0-1.104-0.896-2-2-2H2C0.896,0,0,0.896,0,2v21c0,1.104,0.896,2,2,2V8h21.999V9z M2,6V2h21.999v4H2z"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

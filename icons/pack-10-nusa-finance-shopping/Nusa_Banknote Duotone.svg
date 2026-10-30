@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g id="banknote">
+	<g>
+		<rect x="0.059" y="117.36" fill="#8CC153" width="511.883" height="277.281"/>
+	</g>
+	<g>
+		<path fill="#A0D468" d="M479.949,330.654V181.345c-17.668,0-31.992-14.325-31.992-31.993H63.981c0.047,0.671,0.062,1.328,0.062,2
+			c0,17.668-14.325,31.993-31.992,31.993v149.31c16.996,0,30.898,13.248,31.93,29.992h383.976
+			C447.957,344.98,462.281,330.654,479.949,330.654z"/>
+	</g>
+	<g>
+		<path fill="#8CC153" d="M319.986,256c0,35.336-28.65,63.986-63.986,63.986s-63.985-28.65-63.985-63.986
+			c0-35.335,28.649-63.985,63.985-63.985S319.986,220.665,319.986,256z"/>
+	</g>
+</g>
+</svg>

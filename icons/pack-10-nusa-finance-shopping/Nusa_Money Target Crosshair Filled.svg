@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="focus-lock-profit-business-cash-investment"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<path style="fill:#FFFFFF;" d="M48,76c-15.44,0-28-12.561-28-28s12.56-28,28-28s28,12.561,28,28S63.439,76,48,76z M48,22
+	c-14.336,0-26,11.663-26,26s11.664,26,26,26s26-11.663,26-26S62.336,22,48,22z"/>
+<path style="fill:#FFFFFF;" d="M48,71c-12.682,0-23-10.317-23-23s10.318-23,23-23s23,10.317,23,23S60.682,71,48,71z M48,27
+	c-11.58,0-21,9.421-21,21s9.42,21,21,21s21-9.421,21-21S59.58,27,48,27z"/>
+<rect x="47" y="18" style="fill:#FFFFFF;" width="2" height="12"/>
+<rect x="47" y="66" style="fill:#FFFFFF;" width="2" height="12"/>
+<rect x="18" y="47" style="fill:#FFFFFF;" width="12" height="2"/>
+<rect x="66" y="47" style="fill:#FFFFFF;" width="12" height="2"/>
+<path style="fill:#FFFFFF;" d="M63,57H33c-0.552,0-1-0.447-1-1V40c0-0.553,0.448-1,1-1h30c0.552,0,1,0.447,1,1v16
+	C64,56.553,63.552,57,63,57z M34,55h28V41H34V55z"/>
+<path style="fill:#FFFFFF;" d="M35,45h-2c-0.552,0-1-0.447-1-1v-4c0-0.553,0.448-1,1-1h6c0.552,0,1,0.447,1,1
+	C40,42.757,37.757,45,35,45z M34,43h1c1.304,0,2.416-0.836,2.829-2H34V43z"/>
+<path style="fill:#FFFFFF;" d="M39,57h-6c-0.552,0-1-0.447-1-1v-4c0-0.553,0.448-1,1-1h2c2.757,0,5,2.243,5,5
+	C40,56.553,39.552,57,39,57z M34,55h3.829c-0.413-1.164-1.525-2-2.829-2h-1V55z"/>
+<path style="fill:#FFFFFF;" d="M63,45h-2c-2.757,0-5-2.243-5-5c0-0.553,0.448-1,1-1h6c0.552,0,1,0.447,1,1v4
+	C64,44.553,63.552,45,63,45z M58.171,41c0.413,1.164,1.525,2,2.829,2h1v-2H58.171z"/>
+<path style="fill:#FFFFFF;" d="M63,57h-6c-0.552,0-1-0.447-1-1c0-2.757,2.243-5,5-5h2c0.552,0,1,0.447,1,1v4
+	C64,56.553,63.552,57,63,57z M58.171,55H62v-2h-1C59.696,53,58.584,53.836,58.171,55z"/>
+<path style="fill:#FFFFFF;" d="M48,53c-2.757,0-5-2.243-5-5s2.243-5,5-5c2.757,0,5,2.243,5,5S50.757,53,48,53z M48,45
+	c-1.654,0-3,1.346-3,3s1.346,3,3,3c1.654,0,3-1.346,3-3S49.654,45,48,45z"/>
+</svg>

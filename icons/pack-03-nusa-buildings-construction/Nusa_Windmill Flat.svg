@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g id="mill_2_">
+	<g>
+		<path fill="#9ED36A" d="M319.887,149.274c0,0-14.418-42.557-63.887-42.557c-49.454,0-63.887,42.744-63.887,42.744l-85.396,362.46
+			h298.565L319.887,149.274z"/>
+	</g>
+	<polygon fill="#EC5564" points="112.731,0.078 67.495,45.322 218.292,196.128 263.545,150.884 	"/>
+	<polygon fill="#EC5564" points="293.707,241.364 248.455,286.615 399.269,437.414 444.505,392.178 	"/>
+	<g>
+		<path fill="#424953" d="M256,405.424c-17.667,0-31.99,14.323-31.99,31.99v74.508h63.98v-74.508
+			C287.99,419.747,273.666,405.424,256,405.424z"/>
+	</g>
+	<polygon fill="#424953" points="444.505,392.178 429.432,407.251 67.495,45.322 82.568,30.241 	"/>
+	<polygon fill="#EC5564" points="429.432,30.241 278.617,181.046 323.854,226.29 474.668,75.484 	"/>
+	
+		<rect x="28.718" y="277.243" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -179.0103 186.275)" fill="#EC5564" width="213.277" height="63.974"/>
+	<polygon fill="#646C77" points="82.568,407.251 67.495,392.178 429.432,30.241 444.505,45.322 	"/>
+</g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="telephone-call-office-contact-answer"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<path style="fill:#FFFFFF;" d="M68,33H44c-0.553,0-1,0.448-1,1v34c0,0.552,0.447,1,1,1h11v2c0,2.757-2.243,5-5,5h-9
+	c-2.757,0-5-2.243-5-5v-2h4c0.553,0,1-0.448,1-1V34c0-0.552-0.447-1-1-1H30c-0.553,0-1,0.448-1,1v34c0,0.552,0.447,1,1,1h4v2
+	c0,3.86,3.141,7,7,7h9c3.859,0,7-3.14,7-7v-2h11c0.553,0,1-0.448,1-1V34C69,33.448,68.553,33,68,33z M31,35h8v32h-8V35z M67,67H45
+	V35h22V67z"/>
+<path style="fill:#FFFFFF;" d="M74.703,21.301c-3.35-3.31-7.55-3.353-8.758-3.287l0.109,1.997c0.994-0.059,4.478-0.019,7.242,2.713
+	c3.285,3.247,2.781,7.647,2.713,8.138l1.98,0.275C78.125,30.171,78.6,25.152,74.703,21.301z"/>
+<path style="fill:#FFFFFF;" d="M65.992,22l0.016,2c0.588,0,2.648,0.106,4.29,1.725c2.064,2.038,1.754,4.829,1.711,5.141l1.982,0.269
+	c0.091-0.674,0.41-4.17-2.289-6.833C69.515,22.144,66.807,22,65.992,22z"/>
+<path style="fill:#FFFFFF;" d="M66.151,26.012l-0.303,1.977c0.255,0.039,0.904,0.188,1.442,0.729
+	c0.822,0.829,0.74,1.952,0.716,2.169l1.986,0.228c0.061-0.529,0.147-2.365-1.283-3.806C67.787,26.379,66.711,26.097,66.151,26.012z"
+	/>
+<path style="fill:#FFFFFF;" d="M22.703,22.711c2.765-2.732,6.249-2.77,7.242-2.713l0.109-1.997
+	c-1.207-0.062-5.406-0.024-8.758,3.287c-3.897,3.852-3.422,8.88-3.287,9.849l1.98-0.275C19.922,30.37,19.416,25.959,22.703,22.711z"
+	/>
+<path style="fill:#FFFFFF;" d="M29.992,24l0.016-2c-0.987-0.003-3.592,0.199-5.71,2.288c-2.701,2.665-2.381,6.17-2.289,6.846
+	l1.982-0.269c-0.043-0.313-0.355-3.115,1.711-5.154C27.332,24.105,29.405,23.994,29.992,24z"/>
+<path style="fill:#FFFFFF;" d="M30.151,27.988l-0.303-1.977c-0.976,0.149-1.884,0.605-2.558,1.284
+	c-1.471,1.48-1.328,3.451-1.284,3.831l1.986-0.228c-0.016-0.135-0.127-1.346,0.717-2.194C29.215,28.196,29.829,28.038,30.151,27.988
+	z"/>
+<path style="fill:#FFFFFF;" d="M48,45h16c0.553,0,1-0.448,1-1v-6c0-0.552-0.447-1-1-1H48c-0.553,0-1,0.448-1,1v6
+	C47,44.552,47.447,45,48,45z M49,39h14v4H49V39z"/>
+<rect x="49" y="49" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="49" y="55" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="55" y="49" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="55" y="55" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="61" y="49" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="61" y="55" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="49" y="61" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="55" y="61" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="61" y="61" style="fill:#FFFFFF;" width="2" height="2"/>
+</svg>

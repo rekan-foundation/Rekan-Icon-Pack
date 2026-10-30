@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="20px" height="30px" viewBox="0 0 20 30" style="enable-background:new 0 0 20 30;" xml:space="preserve">
+<g id="safe-bag">
+	<g>
+		<path d="M0,18v11c0,0.553,0.447,1,1,1h5V17H1C0.447,17,0,17.447,0,18z"/>
+		<path d="M19,17h-5v13h5c0.553,0,1-0.447,1-1V18C20,17.447,19.553,17,19,17z"/>
+		<rect x="7" y="17" width="6" height="13"/>
+		<path d="M14,12c0-1.104-0.895-2-1.998-2H8c-1.104,0-2,0.896-2,2v1c0,1.104,0.896,2,2,2v1h4v-1h0.002C13.105,15,14,14.104,14,13V12
+			z M13,13c0,0.552-0.447,1-0.998,1H12v-1H8v1c-0.551,0-1-0.448-1-1v-1c0-0.552,0.449-1,1-1h4.002C12.553,11,13,11.448,13,12V13z"/>
+		<path d="M4.5,9c1.561,0,2.934-0.795,3.74-2H17l2-2l-1-2h-1l-1,1l-1.001-1L14,5l-0.924-2.019L12,3l-1,1l-1-1H8.725
+			C8.105,1.256,6.457,0,4.5,0C2.016,0,0,2.015,0,4.5S2.016,9,4.5,9z M4,2.051v4.898C2.857,6.718,2,5.71,2,4.5S2.857,2.282,4,2.051z"
+			/>
+	</g>
+</g>
+<g id="Layer_1_1_">
+</g>
+</svg>

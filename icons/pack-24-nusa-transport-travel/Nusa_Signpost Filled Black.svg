@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26px"
+	 height="32px" viewBox="0 0 26 32" style="enable-background:new 0 0 26 32;" xml:space="preserve">
+<g id="sign-post">
+	<path d="M12.382,15.146c0.868,0.142,1.742,0.224,2.618,0.286V1c0-0.552-0.447-1-1-1h-1c-0.552,0-1,0.448-1,1v14.111
+		C12.127,15.12,12.254,15.126,12.382,15.146z"/>
+	<path d="M12,20.622V32h3V20.924C13.999,20.855,12.999,20.755,12,20.622z"/>
+	<rect x="11" y="30" width="5" height="2"/>
+	<path d="M24,9c0,1.104-0.896,2-2,2H3L0,6.999L3,3h19c1.104,0,2,0.896,2,2V9z"/>
+	<path d="M22,16l1.5,1.999L22,20H4v-4H22 M23,14H4c-1.104,0-2,0.896-2,2v4c0,1.104,0.896,2,2,2h19l3-4.001L23,14L23,14z"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

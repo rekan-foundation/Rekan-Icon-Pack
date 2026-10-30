@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="work-time-office-business-discuss-communicate"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<path style="fill:#FFFFFF;" d="M20,29v36c0,0.552,0.447,1,1,1h54c0.553,0,1-0.448,1-1V29c0-0.552-0.447-1-1-1H21
+	C20.447,28,20,28.448,20,29z M22,30h52v34H22V30z"/>
+<path style="fill:#FFFFFF;" d="M77,68H56c-0.553,0-1,0.448-1,1v1H41v-1c0-0.552-0.447-1-1-1H19c-0.553,0-1,0.448-1,1v8
+	c0,0.552,0.447,1,1,1h58c0.553,0,1-0.448,1-1v-8C78,68.448,77.553,68,77,68z M76,76H20v-6h19v1c0,0.552,0.447,1,1,1h16
+	c0.553,0,1-0.448,1-1v-1h19V76z"/>
+<path style="fill:#FFFFFF;" d="M71,32H25c-0.553,0-1,0.448-1,1v28c0,0.552,0.447,1,1,1h46c0.553,0,1-0.448,1-1V33
+	C72,32.448,71.553,32,71,32z M70,60H26V34h44V60z"/>
+<rect x="42" y="43" style="fill:#FFFFFF;" width="20" height="2"/>
+<path style="fill:#FFFFFF;" d="M37,45c0.023,0,0.047-0.001,0.071-0.002c0.289-0.021,0.555-0.166,0.729-0.397l3-4l-1.6-1.2
+	l-2.309,3.078l-1.185-1.185l-1.414,1.414l2,2C36.481,44.896,36.735,45,37,45z"/>
+<path style="fill:#FFFFFF;" d="M37,54c0.023,0,0.047-0.001,0.071-0.002c0.289-0.021,0.555-0.166,0.729-0.397l3-4l-1.6-1.2
+	l-2.309,3.078l-1.185-1.185l-1.414,1.414l2,2C36.481,53.896,36.735,54,37,54z"/>
+<rect x="42" y="52" style="fill:#FFFFFF;" width="20" height="2"/>
+<polygon style="fill:#FFFFFF;" points="76,20 76,18 74,18 74,20 72,20 72,22 74,22 74,24 76,24 76,22 78,22 78,20 "/>
+<polygon style="fill:#FFFFFF;" points="62,22 62,24 64,24 64,26 66,26 66,24 68,24 68,22 66,22 66,20 64,20 64,22 "/>
+<rect x="68" y="18" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="70" y="24" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="60" y="18" style="fill:#FFFFFF;" width="2" height="2"/>
+<polygon style="fill:#FFFFFF;" points="33,24 35,24 35,22 37,22 37,20 35,20 35,18 33,18 33,20 31,20 31,22 33,22 "/>
+<polygon style="fill:#FFFFFF;" points="21,22 21,24 23,24 23,26 25,26 25,24 27,24 27,22 25,22 25,20 23,20 23,22 "/>
+<rect x="27" y="18" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="29" y="24" style="fill:#FFFFFF;" width="2" height="2"/>
+<rect x="19" y="18" style="fill:#FFFFFF;" width="2" height="2"/>
+</svg>

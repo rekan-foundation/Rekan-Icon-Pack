@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="bonus-money-profit-reward-employee"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<path style="fill:#FFFFFF;" d="M33,34h30c0.553,0,1-0.447,1-1V19c0-0.553-0.447-1-1-1H33c-0.553,0-1,0.447-1,1v14
+	C32,33.553,32.447,34,33,34z M34,20h28v12H34V20z"/>
+<path style="fill:#FFFFFF;" d="M66,54H54.161l6.155-2.052c0.486-0.161,0.771-0.665,0.66-1.165l-2-9
+	c-0.085-0.379-0.381-0.675-0.76-0.76c-0.378-0.081-0.771,0.059-1.01,0.367L48,53.36l-9.207-11.969
+	c-0.238-0.309-0.631-0.45-1.01-0.367c-0.379,0.085-0.675,0.381-0.76,0.76l-2,9c-0.11,0.5,0.174,1.004,0.66,1.165L41.839,54H30
+	c-0.553,0-1,0.447-1,1v6c0,0.553,0.447,1,1,1h2v15c0,0.553,0.447,1,1,1h30c0.553,0,1-0.447,1-1V62h2c0.553,0,1-0.447,1-1v-6
+	C67,54.447,66.553,54,66,54z M46,60v-4h4v4H46z M50,62v14h-4V62H50z M57.488,44.306l1.34,6.031l-8.041,2.68L57.488,44.306z
+	 M38.512,44.306l6.701,8.711l-8.041-2.68L38.512,44.306z M31,56h13v4H33h-2V56z M34,62h10v14H34V62z M62,76H52V62h10V76z M65,60h-2
+	H52v-4h13V60z"/>
+<path style="fill:#FFFFFF;" d="M71,33c-3.859,0-7,3.141-7,7s3.141,7,7,7c3.859,0,7-3.141,7-7S74.859,33,71,33z M71,45
+	c-2.757,0-5-2.243-5-5s2.243-5,5-5c2.757,0,5,2.243,5,5S73.757,45,71,45z"/>
+<path style="fill:#FFFFFF;" d="M32,40c0-3.859-3.141-7-7-7c-3.859,0-7,3.141-7,7s3.141,7,7,7C28.859,47,32,43.859,32,40z M25,45
+	c-2.757,0-5-2.243-5-5s2.243-5,5-5c2.757,0,5,2.243,5,5S27.757,45,25,45z"/>
+<rect x="47" y="36" style="fill:#FFFFFF;" width="2" height="3"/>
+<rect x="53.586" y="39" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -12.1751 50.6066)" style="fill:#FFFFFF;" width="2.828" height="2"/>
+<rect x="40" y="38.586" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -16.2757 40.7071)" style="fill:#FFFFFF;" width="2" height="2.828"/>
+<path style="fill:#FFFFFF;" d="M48,22c-2.206,0-4,1.794-4,4s1.794,4,4,4c2.206,0,4-1.794,4-4S50.206,22,48,22z M48,28
+	c-1.103,0-2-0.897-2-2s0.897-2,2-2c1.102,0,2,0.897,2,2S49.102,28,48,28z"/>
+</svg>

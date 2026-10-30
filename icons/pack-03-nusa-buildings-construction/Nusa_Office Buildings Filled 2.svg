@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px"
+	 height="31px" viewBox="0 0 32 31" style="enable-background:new 0 0 32 31;" xml:space="preserve">
+<g id="business-center">
+	<path d="M7,1c0-0.553-0.447-1-1-1S5,0.447,5,1v8H3V4.5C3,4.224,2.776,4,2.5,4S2,4.224,2,4.5V9H0v22h9v-2H2V11h4h3V9H7V1z"/>
+	<rect x="4" y="18" width="4" height="4"/>
+	<rect x="4" y="13" width="4" height="4"/>
+	<rect x="4" y="23" width="4" height="4"/>
+	<path d="M10,0v31h12h10V0H10z M30,29h-7v-7h-4v6v1h-7V2h18V29z"/>
+	<rect x="19" y="16" width="4" height="4"/>
+	<polygon points="18,18 18,17 18,16 14,16 14,17 14,18 14,20 18,20 	"/>
+	<polygon points="18,23 18,22 14,22 14,23 14,26 18,26 	"/>
+	<rect x="24" y="16" width="4" height="4"/>
+	<rect x="24" y="22" width="4" height="4"/>
+	<polygon points="23,10 21,10 19,10 19,12 19,14 23,14 	"/>
+	<polygon points="18,13 18,10 14,10 14,13 14,14 18,14 	"/>
+	<rect x="24" y="10" width="4" height="4"/>
+	<rect x="19" y="4" width="4" height="4"/>
+	<rect x="14" y="4" width="4" height="4"/>
+	<rect x="24" y="4" width="4" height="4"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

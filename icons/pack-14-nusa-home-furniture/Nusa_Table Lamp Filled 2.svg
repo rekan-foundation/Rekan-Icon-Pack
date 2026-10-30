@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="21px" height="32px" viewBox="0 0 21 32" style="enable-background:new 0 0 21 32;" xml:space="preserve">
+<g id="lamp">
+	<g>
+		<polygon points="17,0 4,0 0,16 21,16 		"/>
+		<path d="M12,17H9v13H5c-0.553,0-1,0.447-1,1v1h13v-1c0-0.553-0.447-1-1-1h-4V17z"/>
+		<path d="M18,21.276v-3.277h-2v3.277c-0.596,0.347-1,0.983-1,1.723c0,1.104,0.896,2,2,2s2-0.896,2-2
+			C19,22.261,18.596,21.623,18,21.276z M17,23.999c-0.552,0-1-0.448-1-1c0-0.55,0.445-0.996,0.995-0.999h0.01
+			C17.555,22.003,18,22.449,18,22.999C18,23.551,17.552,23.999,17,23.999z"/>
+	</g>
+</g>
+<g id="Layer_1_1_">
+</g>
+</svg>

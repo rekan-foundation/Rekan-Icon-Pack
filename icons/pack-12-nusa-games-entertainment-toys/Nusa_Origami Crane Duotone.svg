@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g id="origami">
+	<g>
+		<polygon fill="#F5BA45" points="191.533,410.65 0.009,373.324 106.677,479.992 192.002,479.992 		"/>
+	</g>
+	<g>
+		<polygon fill="#E8A93A" points="234.595,52.741 174.19,239.328 333.528,425.994 374.855,309.326 		"/>
+	</g>
+	<g>
+		<path fill="#F5BA45" d="M426.666,117.333L277.328,425.994l115.823,11.328c0,0,47.576-235.773,57.155-270.913L426.666,117.333z"/>
+	</g>
+	<g opacity="0.1">
+		<polygon points="114.239,395.589 142.973,479.992 192.002,479.992 191.533,410.65 		"/>
+	</g>
+	<path opacity="0.1" d="M394.668,183.471l40.841,48.577c3.969-18.452,9.313-42.952,11.875-53.873l-31.265-39.062L394.668,183.471z"
+		/>
+	<g opacity="0.1">
+		<polygon points="400.011,403.479 318.904,340.044 277.328,425.994 393.151,437.322 		"/>
+	</g>
+	<g>
+		<path fill="#FECD57" d="M85.334,32.008l0.203,320.207l85.138,127.777h175.916l46.561-42.67
+			C393.151,437.322,88.662,38.663,85.334,32.008z"/>
+	</g>
+	<polygon fill="#FECD57" points="426.666,117.333 394.668,183.471 511.991,224.001 	"/>
+</g>
+</svg>

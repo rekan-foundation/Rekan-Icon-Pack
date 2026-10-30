@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="library-book-room-read-knowledge-librarian-student"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<path style="fill:#FFFFFF;" d="M77,51h-4c-0.552,0-1,0.447-1,1v3h-6v-1c0-0.553-0.448-1-1-1h-3v-1c0-0.553-0.448-1-1-1h-4
+	c-0.552,0-1,0.447-1,1v20c0,0.553,0.448,1,1,1h1v3c0,0.553,0.448,1,1,1h4c0.552,0,1-0.447,1-1v-3h1h4h1v3c0,0.553,0.448,1,1,1h4
+	c0.552,0,1-0.447,1-1v-3h1c0.552,0,1-0.447,1-1V52C78,51.447,77.552,51,77,51z M70,71v-5v-1h2v6H70z M64,66v5h-2V61h3h7v2h-3
+	c-0.552,0-1,0.447-1,1v1h-3C64.448,65,64,65.447,64,66z M72,57v2h-6v-2H72z M64,55v4h-2v-3v-1H64z M58,53h2v1v2v4v11h-2V53z M62,75
+	h-2v-2h2V75z M66,67h2v4h-2V67z M74,75h-2v-2h1h1V75z M76,71h-2v-7v-4v-7h2V71z"/>
+<path style="fill:#FFFFFF;" d="M52,60h-4v-3c0-0.553-0.448-1-1-1h-8c-0.552,0-1,0.447-1,1v3h-9v-2h3c0.552,0,1-0.447,1-1v-5
+	c0-0.553-0.448-1-1-1h-8c-0.552,0-1,0.447-1,1v5c0,0.553,0.448,1,1,1h3v2h-8c-0.552,0-1,0.447-1,1v16c0,0.553,0.448,1,1,1h33
+	c0.552,0,1-0.447,1-1V61C53,60.447,52.552,60,52,60z M25,53h6v3h-6V53z M40,58h6v2h-6V58z M51,76H20V62h19h8h4V76z"/>
+<path style="fill:#FFFFFF;" d="M22,44h9v4h2V18h-2v3h-9v-3h-2v30h2V44z M22,42v-5h9v5H22z M22,35v-5h9v5H22z M31,23v5h-9v-5H31z"/>
+<path style="fill:#FFFFFF;" d="M46,64H24c-0.552,0-1,0.447-1,1v4c0,0.553,0.448,1,1,1h22c0.552,0,1-0.447,1-1v-4
+	C47,64.447,46.552,64,46,64z M45,68H25v-2h20V68z"/>
+<path style="fill:#FFFFFF;" d="M62,49h4h4h5c0.552,0,1-0.447,1-1V37v-5v-4v-5v-4c0-0.553-0.448-1-1-1H54c-0.552,0-1,0.447-1,1v4H37
+	c-0.552,0-1,0.447-1,1v5v6v5v8c0,0.553,0.448,1,1,1h5h4h4h4h4H62z M59,42h2v5h-2V42z M63,42h2v5h-2V42z M67,47v-4h2v4H67z M71,47v-5
+	c0-0.553-0.448-1-1-1h-3c0-0.553-0.448-1-1-1h-4h-4h-3v-2h4h1h3h4h4h3v9H71z M53,47h-2v-7c0-0.553-0.448-1-1-1h-4h-4h-4v-3h3h4h3h1
+	h4v5V47z M38,30h2v4h-2V30z M44,34h-2v-4h2V34z M48,34h-2v-4h2V34z M57,27h-2v-3h2V27z M58,29h4h4h4h4v2h-3h-4h-4h-4
+	c-0.552,0-1,0.447-1,1v4h-3v-7H58z M61,27h-2v-3h2V27z M65,27h-2v-3h2V27z M69,27h-2v-3h2V27z M74,27h-3v-3h3V27z M74,36h-2v-3h2V36
+	z M68,33h2v3h-2V33z M64,33h2v3h-2V33z M60,36v-3h2v3H60z M74,20v2h-4h-4h-4h-4h-3v-2H74z M53,25v3v6h-3v-5c0-0.553-0.448-1-1-1h-4
+	h-4h-3v-3H53z M38,41h3v6h-3V41z M43,41h2v6h-2V41z M47,47v-6h2v6H47z M55,42h2v5h-2V42z"/>
+</svg>

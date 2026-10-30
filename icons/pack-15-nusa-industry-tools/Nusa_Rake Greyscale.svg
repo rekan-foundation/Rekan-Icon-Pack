@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2048px" height="2048px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2048 2048"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil4 {fill:none}
+    .fil3 {fill:#202020}
+    .fil0 {fill:#474747}
+    .fil2 {fill:#949494}
+    .fil1 {fill:#A1A1A1}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_408714168">
+   <path id="_408715704" class="fil0" d="M336.227 269.597l921.572 921.572c18.3508,18.3508 18.3484,48.1158 0,66.4654 -18.3484,18.3484 -48.1158,18.3484 -66.4642,0l-921.574 -921.574c-18.3496,-18.3496 -18.3496,-48.1146 0,-66.4642 18.3496,-18.3496 48.117,-18.3496 66.4654,0z"/>
+   <polygon id="_408715656" class="fil1" points="1558.56,881.425 1792,1185.41 1488.02,951.972 "/>
+   <polygon id="_408715368" class="fil1" points="1406.87,1033.12 1640.31,1337.1 1336.33,1103.66 "/>
+   <polygon id="_408715536" class="fil1" points="1255.19,1184.8 1488.62,1488.79 1184.64,1255.35 "/>
+   <polygon id="_408715320" class="fil1" points="1103.5,1336.49 1336.93,1640.47 1032.95,1407.04 "/>
+   <polygon id="_408714336" class="fil1" points="951.809,1488.18 1185.25,1792.16 881.264,1558.73 "/>
+   <polygon id="_408714720" class="fil2" points="1126.61,1192.91 1159.85,1159.68 1193.08,1126.45 1009.84,943.211 908.727,908.563 943.377,1009.68 "/>
+   <path id="_408714600" class="fil1" d="M885.746 1496.76c129.985,-276.514 333.578,-480.371 611.18,-611.18 23.3835,-11.0185 48.1855,-18.2776 66.463,0l0.0011811 0.00236221c18.2776,18.2776 18.2776,48.1831 -0.0011811,66.4607l-611.178 611.181c-18.2776,18.2776 -48.1843,18.2776 -66.4619,0l-0.00236221 -0.0011811c-18.2776,-18.2776 -10.9961,-43.0701 0,-66.463z"/>
+   <circle id="_408714576" class="fil3" transform="matrix(0.707107 -0.707107 0.707107 0.707107 970.529 970.365)" r="14.8441"/>
+  </g>
+ </g>
+ <rect class="fil4" width="2048" height="2048"/>
+</svg>

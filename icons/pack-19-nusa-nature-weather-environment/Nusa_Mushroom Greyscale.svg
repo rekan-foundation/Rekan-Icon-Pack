@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2048px" height="2048px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2048 2048"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil4 {fill:none}
+    .fil1 {fill:#CBCBCB}
+    .fil3 {fill:#D4D4D4}
+    .fil2 {fill:#A3A3A3;fill-rule:nonzero}
+    .fil0 {fill:#B5B5B5;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_408698328">
+   <path id="_408699984" class="fil0" d="M256.004 1089.68c0,32.1414 26.0575,58.1989 58.1989,58.1989l58.2 -58.1989 675.545 -115.058 627.652 115.058c0,32.1414 26.0587,58.1989 58.2,58.1989 32.1414,0 58.1989,-26.0575 58.1989,-58.1989 0,-212.069 -85.9631,-404.071 -224.946,-543.052 -138.982,-138.983 -330.983,-224.946 -543.052,-224.946 -212.068,0 -404.067,85.9631 -543.051,224.946 -138.983,138.982 -224.946,330.983 -224.946,543.052z"/>
+   <ellipse id="_408699576" class="fil1" cx="1023.85" cy="1104.82" rx="767.853" ry="137.645"/>
+   <path id="_408700104" class="fil2" d="M1212.47 1047.55c-2.36457,-11.3681 -334.875,-22.0996 -339.51,-0.227953l-129.794 542.885c-7.26615,25.8579 4.20591,54.163 28.9299,67.1847l27.1193 -51.4937 -27.052 51.378c85.5827,45.0697 173.48,68.5548 263.838,69.0343 88.6631,0.465355 178.459,-21.2988 269.445,-66.6414 25.3902,-10.487 40.526,-37.8721 34.676,-65.7308l-0.145276 0.0295276 -127.507 -546.417z"/>
+   <ellipse id="_408699528" class="fil3" cx="433.312" cy="933.74" rx="47.876" ry="40.5103"/>
+   <ellipse id="_408699072" class="fil3" cx="546.06" cy="748.241" rx="74.2829" ry="62.8545"/>
+   <ellipse id="_408699504" class="fil3" cx="655.679" cy="545.011" rx="62.1717" ry="52.6066"/>
+   <ellipse id="_408699384" class="fil3" cx="849.584" cy="444.218" rx="62.1717" ry="52.6066"/>
+   <ellipse id="_408699480" class="fil3" cx="781.208" cy="703.946" rx="52.0191" ry="44.0159"/>
+   <ellipse id="_408699432" class="fil3" cx="1654.58" cy="936.804" rx="74.2829" ry="62.8545"/>
+   <ellipse id="_408699240" class="fil3" cx="1362.57" cy="855.111" rx="52.0191" ry="44.0159"/>
+   <ellipse id="_408698808" class="fil3" cx="1539.61" cy="737.993" rx="62.1717" ry="52.6066"/>
+   <ellipse id="_408698256" class="fil3" cx="1352.42" cy="569.927" rx="62.1717" ry="52.6066"/>
+   <ellipse id="_408698496" class="fil3" cx="1022.48" cy="851.606" rx="47.876" ry="40.5103"/>
+   <ellipse id="_408698592" class="fil3" cx="723.875" cy="884.198" rx="62.1717" ry="52.6066"/>
+   <ellipse id="_408698712" class="fil3" cx="1089.48" cy="603.696" rx="52.0191" ry="44.0159"/>
+   <ellipse id="_408698064" class="fil3" cx="1163.17" cy="433.971" rx="62.1717" ry="52.6066"/>
+  </g>
+ </g>
+ <rect class="fil4" width="2048" height="2048"/>
+</svg>

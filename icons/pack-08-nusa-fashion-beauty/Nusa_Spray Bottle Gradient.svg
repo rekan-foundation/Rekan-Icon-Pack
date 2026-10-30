@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="spray-bottle-beauty-cosmetics-spraying"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 96"
+	 style="enable-background:new 0 0 96 96;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0589" y1="81.9411" x2="81.9411" y2="14.0589">
+	<stop  offset="0" style="stop-color:#EECDA3"/>
+	<stop  offset="0.5005" style="stop-color:#EF629F"/>
+	<stop  offset="1" style="stop-color:#A046D6"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_1_);" cx="48" cy="48" r="48"/>
+<path style="fill:#FFFFFF;" d="M47,47h-6v-7c0-0.553-0.447-1-1-1h-2v-7c0-0.553-0.447-1-1-1h-8c-0.553,0-1,0.447-1,1v7h-2
+	c-0.553,0-1,0.447-1,1v7h-6c-0.553,0-1,0.447-1,1v29c0,0.553,0.447,1,1,1h28c0.553,0,1-0.447,1-1v-6V54v-6
+	C48,47.447,47.553,47,47,47z M30,33h6v6h-6V33z M27,41h2h8h2v6H27V41z M20,76V49h6h14h6v4H33c-0.553,0-1,0.447-1,1v17
+	c0,0.553,0.447,1,1,1h13v4H20z M46,70H34V55h12V70z"/>
+<rect x="44" y="35" style="fill:#FFFFFF;" width="8" height="2"/>
+<rect x="57" y="35" style="fill:#FFFFFF;" width="8" height="2"/>
+<rect x="70" y="35" style="fill:#FFFFFF;" width="8" height="2"/>
+<rect x="43.728" y="28.5" transform="matrix(0.9362 -0.3515 0.3515 0.9362 -7.3061 18.7536)" style="fill:#FFFFFF;" width="8.544" height="2.001"/>
+<rect x="55.728" y="23.5" transform="matrix(0.9362 -0.3515 0.3515 0.9362 -4.783 22.6523)" style="fill:#FFFFFF;" width="8.544" height="2.001"/>
+<rect x="66.728" y="19.5" transform="matrix(0.9362 -0.3515 0.3515 0.9362 -2.6752 26.2635)" style="fill:#FFFFFF;" width="8.544" height="2.001"/>
+<rect x="47" y="38.228" transform="matrix(0.3511 -0.9363 0.9363 0.3511 -8.6479 72.521)" style="fill:#FFFFFF;" width="2.001" height="8.544"/>
+<rect x="59" y="43.228" transform="matrix(0.3511 -0.9363 0.9363 0.3511 -5.5431 87.0014)" style="fill:#FFFFFF;" width="2.001" height="8.544"/>
+<rect x="70" y="47.228" transform="matrix(0.3511 -0.9363 0.9363 0.3511 -2.1507 99.8965)" style="fill:#FFFFFF;" width="2.001" height="8.544"/>
+</svg>
