@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g id="business_card">
+	<g>
+		<rect x="0.2" y="202.704" fill="#A0D468" width="319.75" height="191.857"/>
+	</g>
+	<g>
+		<path fill="#EAC6BB" d="M341.276,117.443c-131.904-0.641-214.909,68.157-212.763,85.145l191.624,0.242v32.521
+			c-69.984,0-134.941,24.754-127.564,53.621c6.612,25.902,297.9,76.94,319.227-22.318v-61.615
+			C511.8,205.039,371.565,117.583,341.276,117.443z"/>
+	</g>
+	<g>
+		<path fill="#434A54" d="M53.494,309.3h42.631c5.886,0,10.655-4.777,10.655-10.663s-4.77-10.663-10.655-10.663H53.494
+			c-5.886,0-10.663,4.777-10.663,10.663S47.608,309.3,53.494,309.3z"/>
+		<path fill="#434A54" d="M160.075,330.611H53.494c-5.886,0-10.663,4.778-10.663,10.664s4.777,10.647,10.663,10.647h106.581
+			c5.886,0,10.655-4.762,10.655-10.647S165.961,330.611,160.075,330.611z"/>
+	</g>
+</g>
+</svg>
